@@ -1,0 +1,94 @@
+body {
+  color: #596e79;
+  font-family: 'Merriweather', serif;
+  font-weight: lighter;
+  margin: 0 auto;
+  width: 720px;
+}
+
+h1 {
+  color: #596e79;
+  font-family: 'Give You Glory', cursive;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #596e79;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  margin-top: 0;
+
+}
+
+h3 {
+  color: #596e79;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: 5px dotted #dfd3c3;
+  border-bottom: none;
+  width: 5%;
+  margin: 30px auto
+}
+
+a {
+  color: brown;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+a:hover {
+  color: blue;
+}
+
+header {
+  background-color: #dfd3c3;
+  padding: 30px 30px;
+  height: 150px;
+}
+
+nav {
+  border: solid #596e79;
+  border-width: 2px 0;
+  padding: 10px 30px;
+  text-align: center;
+}
+
+main {
+  background-color: #f0ece3;
+  padding: 30px;
+  min-height: 50vh;
+}
+
+footer {
+  background-color: #dfd3c3;
+  padding: 10px 30px;
+  border-top: 2px solid #596e79;
+  text-align: center;
+}
+
+.profile-picture {
+  float: left;
+  margin-right: 20px;
+}
+
+.navigation-beam {
+  margin: 0;
+}
+
+.navigation-buttons {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+
+.years {
+   font-family: 'B612 Mono', monospace;
+   padding-right: 20px;
+}
+
+.skills {
+  padding-right: 30px;
+}
